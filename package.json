@@ -1,0 +1,29 @@
+{
+  "name": "sequelizedburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srdjan01/sequelizedBurger.git"
+  },
+  "author": "Srdjan Markovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srdjan01/sequelizedBurger/issues"
+  },
+  "homepage": "https://github.com/srdjan01/sequelizedBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "config.json": "0.0.4",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "handlebars-helper-npm-downloads": "^0.1.1",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.33.4"
+  }
+}
